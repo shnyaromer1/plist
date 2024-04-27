@@ -17,7 +17,7 @@
 <key>needs-shine</key>
 <true/>
 <key>url</key>
-<string>https://tweakdoor.com/nnn/black.jpg</string>
+<string>https://bsofapp.com/videostaricon.png</string>
 </dict>
 <dict>
 <key>kind</key>
@@ -25,7 +25,7 @@
 <key>needs-shine</key>
 <true/>
 <key>url</key>
-<string>https://tweakdoor.com/nnn/black.jpg</string>
+<string>https://bsofapp.com/videostaricon.png</string>
 </dict>
 </array>
 <key>metadata</key>
@@ -39,7 +39,7 @@
 <key>subtitle</key>
 <string>BSOF Team</string>
 <key>title</key>
-<string>Video Star old</string>
+<string>Video Star Old</string>
 </dict>
 </dict>
 </array>
